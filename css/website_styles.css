@@ -1,0 +1,663 @@
+*{padding:0px;
+margin:0px;
+box-sizing:border-box;
+}
+.utility{
+	width:100%;
+background:#04031d;
+color:#B49003 ;
+padding:20px;
+}
+
+.utl_addr{
+	margin-left:11px;
+	margin-right:30%;
+	
+}
+.socialicon{
+color:#fff ;
+border-left:solid 2px #fff;
+margin-left:5px;
+padding-left:5px;
+
+
+}
+
+.utility .hety{
+color:#fff;
+font-size:;
+font-weight:;
+font-style:;
+
+}
+
+.banner{
+width:100%;
+border:solid #FBE99E  0px;
+height:300px;
+background:url('../images/bnr.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+}
+.cover{
+/*background:#181947;*/
+height:100%;
+padding:70px;
+/*background: #0b0b26 ;*/
+background:rgba(11,11,38,0.6)
+}
+
+
+.bannerTitle{
+color:#fff;
+font-size:70px;
+font-style:italic;
+border:solid #FBE99E  0px;
+display:block;
+
+}
+
+.bannerSubTitle{
+color:#E6D8A2 ;
+font-size:25px;
+font-style:normal;
+border:solid #FBE99E 1px;
+
+}
+
+.bannerButton{
+text-decoration:none;
+color:#fff ;
+font-size:20px;
+margin-left:20px;
+padding:20px;
+border:solid #FBE99E 1px;
+}
+
+.registerButton{
+	color:white;
+	border:dashed 1px #181947;
+	background:#04031d;
+	padding:20px;
+	text-decoration:none;
+	font-size:20px;
+	margin-left:5px;
+	
+}
+
+.registerButton:hover{
+	color:#04031d;
+	border:solid 1px #fff;
+	background:#fff;
+	padding:20px;
+	text-decoration:none;
+	font-size:20px;
+	margin-left:5px;
+	
+}
+
+
+.bannerButton:hover{
+background:#fff;
+color:#04031d;
+border:solid #181947 1px;
+}
+
+.welcomeSection{
+padding:50px;
+width:100%;
+height:250px;
+text-align:center;
+
+}
+
+.welcomeItem{
+padding:10px;
+margin:0 5px;width:20%;
+border:solid #181947 2px;
+border-radius:10px;
+height:180px;
+display:inline-block;
+}
+.welcomeItemTitle{
+padding:5px;
+color:#fff;
+border:solid #181947 2px;
+background:#04031d;
+border-radius:15px 15px 0px 0px;
+border:solid #181947 2px;
+}
+
+
+.welcomeItem-1{
+background:url(images/);
+}
+
+
+
+
+.welcomeItemButton{
+text-decoration:none;
+color:#fff ;
+font-size:20px;
+padding:5px;
+border:solid #FBE99E 1px;
+background:#04031d;
+width:100%;
+display:block;
+margin-top:80px;
+border-radius:0px 0px 15px 15px ;
+}
+.welcomeItemButton:hover{
+color:#04031d;
+border:solid #181947 1px;
+background:#fff;
+
+}
+
+.aboutSection{
+padding:50px;
+width:100%;
+height:;
+text-align:center;
+overflow:hidden;
+
+}
+
+.aboutItem{
+padding:10px;
+margin:0 5px;width:20%;
+border:solid #181947 2px;
+border-radius:10px;
+height:180px;
+display:inline-block;
+}
+.aboutItemTitle{
+padding:5px;
+color:#fff;
+border:solid #181947 2px;
+background:#181947;
+}
+
+
+
+.aboutText{
+padding:5px;display:inline-block;
+width:80%;
+color:181947;
+font-size:20px;
+}
+
+
+
+.aboutVideo{
+padding:22px;
+display:inline-block;
+width:40%;
+color:#fff;
+font-size:20px;
+padding:25px;
+background:#000;
+}
+
+
+.aboutVideoText{
+padding:5px;
+display:inline-block;
+width:40%;
+color:#000;
+font-size:20px;
+padding:25px;
+
+}
+
+
+.servicesSection{
+padding:50px;
+width:100%;
+height:;
+text-align:center;
+overflow:hidden;
+background: #04031d ;
+
+}
+
+
+.servicesItem{
+display:inline-block;
+padding:10px;
+width:23%;
+height:;
+text-align:center;
+border:solid 1px  #99e5ff ;
+color: #99e5ff ;
+
+}
+.srvc-4{
+background:url(../images/4.jpg);
+background-size:cover;
+height:200px;
+}
+.srvc-3{
+background:url(../images/3.jpg);
+background-size:cover;
+height:200px;
+}
+.srvc-2{
+background:url(../images/2.jpg);
+background-size:cover;
+height:200px;
+}
+.srvc-1{
+background:url(../images/1.jpg);
+background-size:cover;
+height:200px;
+}
+.srvc-link{
+color:#fff;text-decoration:none;
+display:inline-block;
+width:80%;
+padding:10px;
+font-size:18px;
+}
+.span-cover{
+/*background:#181947;*/
+height:100%;
+display:block;
+width:100%;
+padding:5px;
+/*background: #0b0b26 ;*/
+background:rgba(11,11,38,0.6)
+}
+
+.milestoneSection{
+width:100%;
+height:auto;
+text-align:center;
+background:url('../images/project2.jpg');
+background-size:contain;
+overflow:hidden;
+}
+
+.milestoneCover{
+padding:50px;
+width:100%;
+height:100%;
+text-align:center;
+background:rgba(2,2,4,0.7);
+
+}
+
+
+.milestoneCover a{
+padding:15px 25px;
+text-align:center;
+text-decoration:none;
+color:#000;
+border:solid 0px #E01FC0;
+font-size:25px;
+background:#fff;
+}
+.milestoneCover a:hover{
+color:#fff;
+border:solid 0px #E01FC0;
+background:#000;
+}
+
+.milestoneItems{
+	display:inline-block;
+	width:20%;height:auto;
+	font-size:25px;
+padding:10px;
+margin:20px 11px;
+color:#fff;
+border:solid 1px #fff;
+background:rgba(2,0,9,0.8);
+}
+
+
+
+
+.gallerySection{
+width:100%;
+height:auto;
+text-align:center;
+background:;
+background-size:;
+overflow:hidden;
+}
+
+
+.galleryItems{
+	display:inline-block;
+	width:45%;
+	height:250px;
+	font-size:25px;
+padding:5px;
+margin:10px 5px;
+color:#fff;
+border:solid 1px #fff;
+background:#000;
+text-align:center
+}
+
+
+.galleryImg{
+	display:inline-block;
+	width:60%;
+	height:90%;
+	font-size:25px;
+padding:30px;
+margin:10px 5px;
+
+}
+
+
+.gallerySection a{
+padding:15px 25px;
+text-align:center;
+text-decoration:none;
+color:#000;
+border:solid 0px #E01FC0;
+font-size:25px;
+background:#fff;
+
+}
+.gallerySection a:hover{
+color:#fff;
+border:solid 0px #E01FC0;
+background:#000;
+}
+
+.g1{
+background:url('../images/project1.jpg');
+background-size:100% 100%;
+background-repeat:no-repeat;
+}
+.g4{
+background:url('../images/project2.jpg');
+background-size:100% 100%;
+background-repeat:no-repeat;
+}
+
+.g3{
+background:url('../images/project3.jpg');
+background-size:100% 100%;
+background-repeat:no-repeat;
+}
+
+.g2{
+background:url('../images/project4.jpg');
+background-size:100% 100%;
+background-repeat:no-repeat;
+}
+
+
+.aboutItem{
+padding:10px;
+margin:0 5px;width:20%;
+border:solid #181947 2px;
+border-radius:10px;
+height:180px;
+display:inline-block;
+}
+
+.aboutText{
+padding:20px;
+margin:5px;width:100%;
+display:inline-block;
+}
+
+
+.socialSection{
+width:100%;
+height:auto;
+padding:40px;
+text-align:center;
+background:#04031d;
+background-size:;
+overflow:hidden;
+
+}
+
+
+.socialSection a{
+text-decoration:none;
+color:#fff
+}
+
+
+
+.footerSection{
+width:100%;
+height:auto;
+padding:40px;
+text-align:center;
+background:;
+background-size:;
+overflow:hidden;
+
+}
+
+.social-span{
+width:20%;
+height:auto;
+padding:10px;
+text-align:center;
+background:;
+background-size:;
+overflow:hidden;
+font-size:25px;
+
+}
+.footerItem{
+padding:10px;
+margin:0px;width:90%;
+border:solid #181947 0px;
+border-radius:10px;
+height:auto;
+display:inline-block;
+}
+
+.social-span a{
+text-decoration:none;
+
+}
+
+.copyright{
+width:100%;
+height:auto;
+padding:40px;
+text-align:center;
+background:#04031d;color:#fff;
+display:inline-block;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:900px){
+	
+.welcomeItem{
+padding:25px;
+margin:0 10px;width:40%;
+display:inline-block;
+margin-top:10px;
+}
+
+
+.welcomeSection{
+height:auto;
+overflow:hidden;
+}
+
+
+.bannerSubTitle{
+display:inline-block;
+width:80%;
+margin:10px;
+}
+.bannerButton,.registerButton{
+display:inline-block;
+width:40%;
+margin:10px;
+}
+	
+}
+
+@media screen and (max-width:650px){
+	
+.welcomeItem{
+padding:15px;
+margin:3px 10px;
+width:85%;
+display:inline-block;
+
+}
+.welcomeItemTitle{
+padding:5px 20px;
+}
+
+.welcomeSection{
+height:auto;
+overflow:hidden;
+padding:10px;
+}
+
+.bannerButton,.registerButton{
+display:inline-block;
+width:70%;
+padding:5px 5px;
+}
+
+
+.bannerSubTitle{
+display:inline-block;
+width:100%;
+margin:0px;
+}
+.bannerButton:hover,.registerButton:hover{
+display:inline-block;
+width:70%;
+padding:5px 5px;
+}	
+
+.banner,.cover{
+height:auto;
+overflow:hidden;
+}
+
+.aboutSection{
+padding:1px;
+
+
+}
+.aboutVideo,.aboutVideoText{
+
+width:95%;
+overflow:hidden;
+padding:2px;
+}
+
+
+
+
+.servicesSection{
+padding:5px;
+width:100%;
+text-align:center;
+overflow:hidden;
+background: #04031d ;
+
+}
+
+
+.servicesSection .servicesItem{
+display:inline-block;
+padding:10px;
+width:80%;
+margin-top:5px;
+}
+
+
+
+
+.milestoneSection{
+margin-top:10px;
+}
+
+.milestoneCover{
+padding:10px;
+}
+
+
+.milestoneCover a{
+}
+.milestoneCover a:hover{
+}
+
+.milestoneItems{
+	display:inline-block;
+	width:80%;height:auto;
+	font-size:25px;
+padding:10px;
+margin:10px 1px;
+
+}
+
+
+
+
+.gallerySection{
+}
+
+
+.galleryItems{
+	display:inline-block;
+	width:85%;
+	height:250px;
+	font-size:25px;
+padding:5px;
+margin:5px 0px;
+}
+
+
+.galleryImg{
+	display:inline-block;
+	width:60%;
+	height:90%;
+	font-size:25px;
+padding:10px;
+margin:10px 5px;
+
+}
+
+
+.gallerySection a{
+padding:10px 5px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
